@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**emmettgb/emmettgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Welcome to github/emmettgb
+- 🔭 I’m currently working on expanding the Julia 
+ecosystem with packages I find useful. Most notably, 
+I maintain the Lathe.jl ML package.
+- 👯 I’m looking to collaborate on essentially anything 
+I am happy to help for the betterment of computing.
+- 💬 Ask me about Artificial Intelligence and Linux
+- 📫 How to reach me: Dm or tweet me @emmettboudgie
+- 😄 Pronouns: He/him/his
+- ⚡ Fun fact: I am addicted to avacados.
