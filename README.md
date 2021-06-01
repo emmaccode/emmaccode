@@ -17,4 +17,11 @@ Hello, my name is **Emmett Boudreau**, I am a Scientist and Computer programmer 
 ## Check out my other projects!
 - [Leya](https://github.com/emmettgb/Leya) 🦩 - A Lisp-like programming language.
 - [Toploader](https://github.com/emmettgb/TopLoader) 🍞 - A Python interface for Julia packages.
-- </div>
+## Educational Repos!
+#### Language lessons
+- [C crash course](https://github.com/emmettgb/C-CrashCourse) 💥
+- [Comprehensive Julia Tutorial](https://github.com/emmettgb/JuliaLessons) ✅
+#### Software examples
+- [Lathe Books](https://github.com/emmettgb/Lathe-Books) 📚
+#### General programming
+- [Programming Notebooks](https://github.com/emmettgb/Emmetts-DS-NoteBooks) 📓
