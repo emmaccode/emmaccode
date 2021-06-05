@@ -8,5 +8,4 @@ Hello, my name is **Emmett Boudreau**, I am a Scientist and Computer programmer 
 - 🐦 Reach out to me on [Twitter!](https://twitter.com/emmettboudgie) 🐦
 - 👨🏾‍💻 I have a [blog!](http://medium.com/@emmettgb) 👨🏾‍💻
 - 📽️ I have a [Youtube Channel](https://www.youtube.com/channel/UCruzXIngBV2dlgjX1_HZRzw) 📽️
-
 # You may view a comprehensive list of my projects [here](https://github.com/emmettgb/emmettgb/blob/main/PROJECTS.md)
