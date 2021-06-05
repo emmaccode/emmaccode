@@ -42,7 +42,6 @@ Projects are separated by programming language. I figured this would be the best
 - [Lathe.lisp](https://github.com/emmettgb/Lathe.lisp)
 #### Planned
 - [Frames.lisp](https://github.com/emmettgb/Frames.lisp)
-## Educational Repos!
 ## Language lessons
 - [C crash course](https://github.com/emmettgb/C-CrashCourse) 💥
 - [Comprehensive Julia Tutorial](https://github.com/emmettgb/JuliaLessons) ✅
