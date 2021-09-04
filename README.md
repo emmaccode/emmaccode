@@ -1,7 +1,7 @@
 <div align = "center">
   
 # 🧬 🧮 Welcome! 🧮 🧬
-Hello, my name is **Emmett Boudreau**, I am a Scientist and Computer programmer who enjoys machine-learning, systems programming, and high-level scientific computing!
+**Emmett Boudreau** Is a Scientist, Computer Programmer, Writer, and Statistician. Emmett is most famous for creating the high-level artificial intelligence API, Lathe.
 
 <img src = "https://github.com/emmettgb/emmett-stats/blob/master/generated/overview.svg"></img> <img src = "https://github.com/emmettgb/emmett-stats/blob/master/generated/languages.svg">
 - 🫂 Open to collaboration! 🫂
