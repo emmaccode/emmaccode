@@ -10,10 +10,10 @@ Projects are separated by programming language. I figured this would be the best
 - [Lathe.jl](https://github.com/ChifiSource/Lathe.jl) 🤖 - Predictive learning package.
 #### In Development
 - [Hone.jl](https://github.com/ChifiSource/Hone.jl) 📊 - Modular graphing library.
+- [OddFrames.jl](https://github.com/ChifiSource/OddFrames.jl) 🦸 - In-memory tabular data package.
 - [Jockey.jl](https://github.com/ChifiSource/Jockey.jl) 🐎 - Terminal-based notebook sessions for Julia.
 - [SuperFrames.jl](https://github.com/emmettgb/SuperFrames.jl) - Dict-based DataFrames for Julia.
 #### Discontinued
-- [OddFrames.jl](https://github.com/ChifiSource/OddFrames.jl) 🦸 - In-memory tabular data package.
 - [BashRepl.jl](https://github.com/emmettgb/BashRepl.jl)
 - [Vulta.jl](https://github.com/emmettgb/Vulta.jl)
 - [JLisp.jl](https://github.com/emmettgb/JLisp.jl)
