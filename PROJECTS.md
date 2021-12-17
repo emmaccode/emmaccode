@@ -7,13 +7,13 @@ Projects are separated by programming language. I figured this would be the best
 - **Planned** - Would like to get to this project, have not found the time for it yet.
 ## Julia
 #### Maintained
-- [Lathe.jl](https://github.com/ChifiSource/Lathe.jl) 🤖 - Predictive learning package.
+- [Lathe.jl](https://github.com/ChifiSource/Lathe.jl) **0.1.9** 🤖 - Predictive learning package.
 #### In Development
 - [Hone.jl](https://github.com/ChifiSource/Hone.jl) 📊 - Modular graphing library.
-- [OddFrames.jl](https://github.com/ChifiSource/OddFrames.jl) 🦸 - In-memory tabular data package.
-- [Jockey.jl](https://github.com/ChifiSource/Jockey.jl) 🐎 - Terminal-based notebook sessions for Julia.
-- [SuperFrames.jl](https://github.com/emmettgb/SuperFrames.jl) - Dict-based DataFrames for Julia.
+- [OddFrames.jl](https://github.com/ChifiSource/OddFrames.jl) � - In-memory tabular data package.
+- [Jockey.jl](https://github.com/ChifiSource/Jockey.jl) 🐎 - A notebook server session for Julia, Python -- and more.
 #### Discontinued
+- [SuperFrames.jl](https://github.com/emmettgb/SuperFrames.jl) - Dict-based DataFrames for Julia.
 - [BashRepl.jl](https://github.com/emmettgb/BashRepl.jl)
 - [Vulta.jl](https://github.com/emmettgb/Vulta.jl)
 - [JLisp.jl](https://github.com/emmettgb/JLisp.jl)
@@ -23,10 +23,10 @@ Projects are separated by programming language. I figured this would be the best
 - [Godot.jl](https://github.com/ChifiSource/Godot.jl)
 ## Assembly
 #### Unreleased
-- [Leya](https://github.com/emmettgb/leya)
+- [Leya](https://github.com/emmettgb/leya) - 🦩 A rewrite of [Leya LEGACY](https://github.com/emmettgb/Leya) done better.
 #### Discontinued
 - [Int2String](https://github.com/emmettgb/Int2String)
-- [Leya LEGACY](https://github.com/emmettgb/Leya) 🦩 - A Lisp-like programming language.
+- [Leya LEGACY](https://github.com/emmettgb/Leya) - 🦩 A Lisp-like programming language.
 ## Python
  #### Discontinued
 - [Toploader](https://github.com/emmettgb/TopLoader) 🍞 - A Python interface for Julia packages.
@@ -40,10 +40,11 @@ Projects are separated by programming language. I figured this would be the best
 #### Discontinued
 - [LinReg.lisp](https://github.com/emmettgb/LinReg.lisp)
 - [Lathe.lisp](https://github.com/emmettgb/Lathe.lisp)
-#### Planned
+#### In Development
 - [Frames.lisp](https://github.com/emmettgb/Frames.lisp)
 ## Language lessons
 - [C crash course](https://github.com/emmettgb/C-CrashCourse) 💥
+- [Assembly repl](https://github.com/emmettgb/Random_Code/tree/main/assembly_repl)
 - [Comprehensive Julia Tutorial](https://github.com/emmettgb/JuliaLessons) ✅
 ## Notebooks
 - [Lathe Books](https://github.com/emmettgb/Lathe-Books) 📚
