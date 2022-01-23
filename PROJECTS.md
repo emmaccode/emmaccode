@@ -13,7 +13,6 @@ Projects are separated by programming language. I figured this would be the best
 #### In Development
 - [Hone.jl](https://github.com/ChifiSource/Hone.jl) 📊 - Modular graphing library.
 - [OddFrames.jl](https://github.com/ChifiSource/OddFrames.jl) 🧱 - In-memory tabular data package.
-- [Jockey.jl](https://github.com/ChifiSource/Jockey.jl) 🐎 - A notebook server session for Julia, Python -- and more.
 - [toolips](https://github.com/ChifiSource/toolips.js) 🌹 - A reactive Javascript library that evaluates to Javascript expressions.
 - [Vulta](https://github.com/emmettgb/Vulta) 👾 - A high-level declarative graphics interface using Vulkan. (Games, GUIs)
 #### Discontinued
@@ -30,12 +29,14 @@ Projects are separated by programming language. I figured this would be the best
 - [Lathe.lisp](https://github.com/emmettgb/Lathe.lisp)
 #### Planned
 Some of these projects are on hold until I can get other projects done, e.g. Prrty and Jockey will depend on toolips, Vulta.jl will depend on Vulta.
+- [Toolips.jl](https://github.com/ChifiSource/Toolips.jl) 🌹 - Julia bindings for Toolips JSExprs.
+- [Jockey.jl](https://github.com/ChifiSource/Jockey.jl) 🐎 - A notebook server session for Julia, Python -- and more.
 - [Vulta.jl](https://github.com/emmettgb/Vulta.jl) 👾 - An interface for Vulta in Julia.
 - [Prrty.jl](https://github.com/ChifiSource/Prrty.jl) 😸 - Interactive, Deployable dashboards for Julia.
 - [CheMBL.jl](https://github.com/ChifiSource/ChEMBL.jl) 🧬 - Wrapper for the CheMBL API in Julia.
 - [Godot.jl](https://github.com/ChifiSource/Godot.jl) 👾 - Julia bindings for the Godot engine
 - [Leya](https://github.com/emmettgb/leya) 🦩 - A rewrite of [Leya LEGACY](https://github.com/emmettgb/Leya) done better.
-- [Frames.lisp](https://github.com/emmettgb/Frames.lisp) 
+- [Frames.lisp](https://github.com/emmettgb/Frames.lisp) 🧱 
 ## Language lessons
 - [C crash course](https://github.com/emmettgb/C-CrashCourse) 💥
 - [Assembly repl](https://github.com/emmettgb/Random_Code/tree/main/assembly_repl)
