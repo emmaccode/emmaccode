@@ -1,7 +1,7 @@
 <div align = "center">
   
 # 🧬 🧮 Welcome! 🧮 🧬
-**Emmett Boudreau** Is a Scientist, Computer Programmer, Writer, and Statistician.
+**Emmett Boudreau** Is a Scientist, Computer Programmer, Journalist, and Statistician.
 
 <img src = "https://github.com/emmettgb/emmett-stats/blob/master/generated/overview.svg"></img> <img src = "https://github.com/emmettgb/emmett-stats/blob/master/generated/languages.svg">
 - 🫂 Open to collaboration! 🫂
