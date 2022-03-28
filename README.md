@@ -12,4 +12,5 @@
 # Favorite Projects
 - [Lathe.jl](https://github.com/ChifiSource/Lathe.jl) 🤖 - Predictive learning package.
 - [OddFrames.jl](https://github.com/ChifiSource/OddFrames.jl) 🦸 - In-memory tabular data package.
+- [Toolips.jl](https://github.com/ChifiSource/Toolips.jl) 🌷 - Function-based web-development framework.
 ## You may view a comprehensive list of my projects [here](https://github.com/emmettgb/emmettgb/blob/main/PROJECTS.md)
