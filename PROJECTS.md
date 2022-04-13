@@ -11,11 +11,10 @@ Projects are separated by programming language. I figured this would be the best
 - [IpyJL.jl](https://github.com/emmettgb/IpyJL.jl) 📙 - Converts notebook, .ipynb files into Julia .jl files.
 - [Character Clash](https://github.com/emmettgb/characterclash) ✨ - A Python REPL-based " thing" where characters fight one another.
 #### In Development
-- [Hone.jl](https://github.com/ChifiSource/Hone.jl) 📊 - Modular graphing library.
+- [Toolips.jl](https://github.com/ChifiSource/Toolips.jl) 🌹 - Julia bindings for Toolips JSExprs.
 - [OddFrames.jl](https://github.com/ChifiSource/OddFrames.jl) 🧱 - In-memory tabular data package.
-- [toolips](https://github.com/ChifiSource/toolips.js) 🌹 - A reactive Javascript library that evaluates to Javascript expressions.
-- [Vulta](https://github.com/emmettgb/Vulta) 👾 - A high-level declarative graphics interface using Vulkan. (Games, GUIs)
 #### Discontinued
+- [Hone.jl](https://github.com/ChifiSource/Hone.jl) 📊 - Modular graphing library.
 - [SuperFrames.jl](https://github.com/emmettgb/SuperFrames.jl) 🧱 - Dict-based DataFrames for Julia.
 - [BashRepl.jl](https://github.com/emmettgb/BashRepl.jl)
 - [JLisp.jl](https://github.com/emmettgb/JLisp.jl)
@@ -29,7 +28,6 @@ Projects are separated by programming language. I figured this would be the best
 - [Lathe.lisp](https://github.com/emmettgb/Lathe.lisp)
 #### Planned
 Some of these projects are on hold until I can get other projects done, e.g. Prrty and Jockey will depend on toolips, Vulta.jl will depend on Vulta.
-- [Toolips.jl](https://github.com/ChifiSource/Toolips.jl) 🌹 - Julia bindings for Toolips JSExprs.
 - [Jockey.jl](https://github.com/ChifiSource/Jockey.jl) 🐎 - A notebook server session for Julia, Python -- and more.
 - [Vulta.jl](https://github.com/emmettgb/Vulta.jl) 👾 - An interface for Vulta in Julia.
 - [Prrty.jl](https://github.com/ChifiSource/Prrty.jl) 😸 - Interactive, Deployable dashboards for Julia.
