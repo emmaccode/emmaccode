@@ -2,7 +2,7 @@
   
 # 🧬 🧮 Welcome! 🧮 🧬
 **Emmett Boudreau** Is a Scientist, Computer Programmer, Journalist, and Statistician.
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmettgb)](https://github.com/anuraghazra/github-readme-stats) \
 <img src = "https://github.com/emmettgb/emmett-stats/blob/master/generated/overview.svg"></img> <img src = "https://github.com/emmettgb/emmett-stats/blob/master/generated/languages.svg">
 - 🫂 Open to collaboration! 🫂
 - 🐦 Reach out to me on [Twitter!](https://twitter.com/emmettboudgie) 🐦
