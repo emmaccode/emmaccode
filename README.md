@@ -9,6 +9,6 @@ I'm a Scientist, Computer Programmer, Journalist, and Statistician passionate ab
 - 👨🏾‍💻 I have a [blog!](http://medium.com/@emmettgb) 👨🏾‍💻 (i post quite often)
 - 📽️ I have a [Youtube Channel](https://www.youtube.com/channel/UCruzXIngBV2dlgjX1_HZRzw) 📽️ (i do not post often)
 - 🫂 Also, there is [LinkedIn](https://www.linkedin.com/in/emmett-boudreau-828b2818a/) (I prefer other platforms when possible.)
-#### ecosystems
+#### favorite projects
 - [Toolips.jl](https://github.com/ChifiSource#standard-library) 🌷 - Extensible fullstack web-development for Julia.
 - [odd data](https://github.com/ChifiSource#-odd-data-)🪟 - A collection of data packages for Julia.
