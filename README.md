@@ -15,7 +15,7 @@
 - 👨🏾‍💻 I have a [blog!](http://medium.com/@emmettgb) 👨🏾‍💻
 - 📽️ I have a [Youtube Channel](https://www.youtube.com/channel/UCruzXIngBV2dlgjX1_HZRzw) 📽️
   
-#### projects
+#### ecosystems
 - [Toolips.jl](https://github.com/ChifiSource#toolips) 🌷 - Extensible fullstack web-development for Julia.
 - [Olive.jl](https://github.com/ChifiSource#olive) 🫒 - Extensible notebook IDE for Julia.
 - [Prrty.jl](https://github.com/ChifiSource#prrty) 🐱 - Elegant plots and visualizations for Julia. 
