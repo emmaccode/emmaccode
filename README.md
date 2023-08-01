@@ -2,7 +2,7 @@
  <img src="https://github.com/emmettgb/emmettgb/blob/main/emsgithub.png" width=300></img>
  </br></br>
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmettgb)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmaccode)](https://github.com/anuraghazra/github-readme-stats)
  </div>
  
 #### info
