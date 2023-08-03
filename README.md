@@ -9,10 +9,9 @@
 <img src = "https://github.com/emmettgb/emmett-stats/blob/master/generated/overview.svg" width=400></img> <img src = "https://github.com/emmettgb/emmett-stats/blob/master/generated/languages.svg" width=400>
 <div align = "left">
   
-- 💻 my homepage is at [em's computer !](https://ems.computer/)
 - 🫂 Open to collaboration! 🫂
-- 🐦 Reach out to me on [Twitter!](https://twitter.com/emmettboudgie) 🐦
-- 👨🏾‍💻 I have a [blog!](http://medium.com/@emmettgb) 👨🏾‍💻
+- 🐦 Reach out to me on [Twitter!](https://twitter.com/emmaccode) 🐦
+- 👨🏾‍💻 I have a [blog!](http://medium.com/@emmaccode) 👨🏾‍💻
 - 📽️ I have a [Youtube Channel](https://www.youtube.com/channel/UCruzXIngBV2dlgjX1_HZRzw) 📽️
   
 #### ecosystems
