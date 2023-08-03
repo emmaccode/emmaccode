@@ -18,7 +18,4 @@
 #### ecosystems
 - [Toolips.jl](https://github.com/ChifiSource#toolips) 🌷 - Extensible fullstack web-development for Julia.
 - [Olive.jl](https://github.com/ChifiSource#olive) 🫒 - Extensible notebook IDE for Julia.
-- [Prrty.jl](https://github.com/ChifiSource#prrty) 🐱 - Elegant plots and visualizations for Julia. 
-- [odd data](https://github.com/ChifiSource#odddata)🪟 - A collection of data packages for Julia.
-
-  </div>
+- [Gattino.jl](https://github.com/ChifiSource#gattino) 🐱 - Elegant plots and visualizations for Julia.
