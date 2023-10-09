@@ -5,7 +5,7 @@
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmaccode)](https://github.com/anuraghazra/github-readme-stats)
  </div>
  
-#### info
+#### info 🩷
 <img src = "https://github.com/emmettgb/emmett-stats/blob/master/generated/overview.svg" width=400></img> <img src = "https://github.com/emmettgb/emmett-stats/blob/master/generated/languages.svg" width=400>
 <div align = "left">
   
