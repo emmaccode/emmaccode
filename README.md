@@ -19,8 +19,10 @@
  
 ###### [chifi](https://github.com/ChifiSource) ecosystems
 - [Toolips.jl](https://github.com/ChifiSource#toolips) 🌷 - Extensible fullstack web-development for Julia.
+- [Gattino.jl](https://github.com/ChifiSource#gattino) 🐱 - Elegant plots and data-visualizations for Julia.
 - [Olive.jl](https://github.com/ChifiSource#olive) 🫒 - Extensible notebook IDE for Julia.
-- [Gattino.jl](https://github.com/ChifiSource#gattino) 🐱 - Elegant plots and visualizations for Julia.
 ###### websites
 
+###### software
+- [Pixie](https://github.com/CreatorColony/Pixie) 🧚🏻‍♀️ - A node-based image editor.
 ###### games
