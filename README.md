@@ -18,9 +18,9 @@
 
  
 ###### [chifi](https://github.com/ChifiSource) ecosystems
-- [Toolips.jl](https://github.com/ChifiSource#toolips) 🌷 - Extensible fullstack web-development for Julia. (Mature and deployable)
+- [Toolips.jl](https://github.com/ChifiSource#toolips) 🌷 - Extensible fullstack web-development for Julia. (Mature and deployable, beta `0.3`)
 - [Gattino.jl](https://github.com/ChifiSource#gattino) 🐱 - Elegant plots and data-visualizations for Julia. (Early, yet capable, version)
-- [Olive.jl](https://github.com/ChifiSource#olive) 🫒 - Extensible notebook IDE for Julia. (Still heavily under development)
+- [Olive.jl](https://github.com/ChifiSource#olive) 🫒 - Extensible notebook IDE for Julia. (**beta** !)
 ###### websites
 I have stuff coming to this section really soon, I am just alone and need time!
 ###### software
