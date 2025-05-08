@@ -16,9 +16,10 @@
  
 
  
-###### [chifi](https://github.com/ChifiSource) ecosystems
+###### [chifi](https://github.com/ChifiSource) julia ecosystems
+- [parametric](https://github.com/ChifiSource#parametric) 🔴🟢🟣 -  Useful packages designed around parametric polymorphism.
 - [Toolips.jl](https://github.com/ChifiSource#toolips) 🌷 - Extensible fullstack web-development for Julia. (Mature and deployable, beta `0.3`)
-- [Gattino.jl](https://github.com/ChifiSource#gattino) 🐱 - Elegant plots and data-visualizations for Julia. (Early, yet capable, version)
+- [Gattino.jl](https://github.com/ChifiSource#gattino) 🐱 - Elegant plots and data-visualizations for Julia. (Early, yet capable, *first* version)
 - [Olive.jl](https://github.com/ChifiSource#olive) 🫒 - Extensible notebook IDE for Julia. (**beta** !)
 ###### websites
 I have stuff coming to this section really soon, I am just alone and need time!
