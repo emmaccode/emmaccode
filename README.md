@@ -21,6 +21,7 @@
 - [Toolips.jl](https://github.com/ChifiSource#toolips) 🌷 - Extensible fullstack web-development for Julia. (Mature and deployable, beta `0.3`)
 - [Gattino.jl](https://github.com/ChifiSource#gattino) 🐱 - Elegant plots and data-visualizations for Julia. (Early, yet capable, *first* version)
 - [Olive.jl](https://github.com/ChifiSource#olive) 🫒 - Extensible notebook IDE for Julia. (**beta** !)
+- [AlgebraFrames.jl](https://github.com/ChifiSource#algebra-frames) 🧮 - *Early* work in progress, but still a capable alpha release!
 ###### websites
 I have stuff coming to this section really soon, I am just alone and need time!
 ###### software
