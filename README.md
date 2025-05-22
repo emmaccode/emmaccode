@@ -23,7 +23,7 @@
 - [Olive.jl](https://github.com/ChifiSource#olive) 🫒 - Extensible notebook IDE for Julia. (**beta** !)
 - [AlgebraFrames.jl](https://github.com/ChifiSource#algebra-frames) 🧮 - *Early* work in progress, but still a capable alpha release!
 ###### websites
-I have stuff coming to this section really soon, I am just alone and need time!
+- [ChifiDocs](https://chifidocs.com) - Documentation for [chifi](https://github.com/ChifiSource) packages.
 ###### software
 - [Pixie](https://github.com/CreatorColony/Pixie) 🧚🏻‍♀️ - A node-based image editor. (Still heavily under development)
 ###### games
