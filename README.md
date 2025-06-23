@@ -3,8 +3,6 @@
  </br></br>
 
 
-  
-
 <img src = "https://github.com/emmaccode/emmy-stats/blob/master/generated/overview.svg" width=400></img> <img src = "https://github.com/emmaccode/emmy-stats/blob/master/generated/languages.svg" width=400>
 <hr></hr>
 <a href="http://medium.com/@emmaccode"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Medium.svg" width="50" height="50"></svg></a>
@@ -24,7 +22,8 @@
 - [AlgebraFrames.jl](https://github.com/ChifiSource#algebra-frames) 🧮 - *Early* yet capable *first* version
 ###### websites
 - [ChifiDocs](https://chifidocs.com) - Documentation for [chifi](https://github.com/ChifiSource) packages.
-###### software
-- [Pixie](https://github.com/CreatorColony/Pixie) 🧚🏻‍♀️ - A node-based image editor and animation software. (Still heavily under development)
+###### pixie software
+- [pixie](https://github.com/pixie/Pixie) 🧚🏻‍♀️ - A node-based image editor and animation software. (Still heavily under development)
+- [scrub](https://github.com/pixie/scrub) 🧽 - A Godot-based video-editor. (Waiting on `VideoStreamTheora.seek`, might eventually do it myself if I have to wait much longer)
 ###### games
 I am also working on some cool things on this front, but games take years and I am alone. My results, eventually, will speak for themselves.
