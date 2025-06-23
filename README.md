@@ -25,6 +25,6 @@
 ###### websites
 - [ChifiDocs](https://chifidocs.com) - Documentation for [chifi](https://github.com/ChifiSource) packages.
 ###### software
-- [Pixie](https://github.com/CreatorColony/Pixie) 🧚🏻‍♀️ - A node-based image editor. (Still heavily under development)
+- [Pixie](https://github.com/CreatorColony/Pixie) 🧚🏻‍♀️ - A node-based image editor and animation software. (Still heavily under development)
 ###### games
 I am also working on some cool things on this front, but games take years and I am alone. My results, eventually, will speak for themselves.
