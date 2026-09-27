@@ -22,6 +22,7 @@
 - [AlgebraFrames.jl](https://github.com/ChifiSource#algebra-frames) 🧮 - *Early* yet capable *first* version
 ###### websites
 - [ChifiDocs](https://chifidocs.com) - Documentation for [chifi](https://github.com/ChifiSource) packages.
+- [EmsComputer](https://ems.computer) - Emma's website! My personal playground!
 ###### pixie software
 - [pixie](https://github.com/pixie/Pixie) 🧚🏻‍♀️ - A node-based image editor and animation software. (Still heavily under development)
 - [scrub](https://github.com/pixie/scrub) 🧽 - A Godot-based video-editor. (Waiting on `VideoStreamTheora.seek`, might eventually do it myself if I have to wait much longer)
